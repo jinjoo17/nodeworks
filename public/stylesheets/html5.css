@@ -1,0 +1,57 @@
+body{
+	font : 20px 굴림;
+}
+header{
+	
+	color:blue;
+	font:20px;
+}
+article{
+	background-color:lightgray;
+	padding:10px;
+	margin:5px;
+}
+section {
+	margin:5Px;
+	padding:10px;
+	background-color:white;
+}
+#header{
+	font-size:20px;
+	font-style:italic;
+	font-weight:bold;
+	//em*16=px
+}
+
+ul{
+	
+	list-style-type:none;
+	border : 1px solid #555;
+
+	overflow:hidden;
+	padding:14px;
+	margin:0px;
+	
+}
+li {
+	display:inline;}
+
+li a{
+	
+
+	color:#666;
+	text-align:center;
+	text-decoration:none;
+	padding:14px;
+	
+}
+
+li a:hover{
+	
+	background-color:#ddd;
+}
+.myclass{
+	font-weight:bold;
+	font-size:30px;
+	colorblue;
+}
